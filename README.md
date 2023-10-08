@@ -6,6 +6,8 @@ Playing around with [DoIt][doit-docs].
 
 ## Tasks
 
+All tasks are defined in [`dodo.py`](./dodo.py).
+
 ```text
 $ doit list --all
 format         Auto-formats Python files
